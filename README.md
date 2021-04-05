@@ -5,9 +5,10 @@ Basic setup of a simple Python project
 Requires Python 3.6+ and [`Click`](https://click.palletsprojects.com/en/7.x/)
 
 ## Installation
-The easiest way to use `pyrpoj` is to install it into a Python environment.
+The easiest way to use `pyproj` is to install it into a Python environment.
 1. Open a Python environment.
-2. Download both **pyproj.py** and **setup.py** to a folder, e.g. `C:\Users\<username>\Downloads\pyproj` if you're on Windows.
+   * Use `venv` ([guide here](https://realpython.com/python-virtual-environments-a-primer/#using-virtual-environments)) or `conda` ([guide here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment))
+2. Download both `pyproj.py` and `setup.py` to a folder, e.g. `C:\Users\<username>\Downloads\pyproj` if you're on Windows.
 3. Open the folder in a terminal, e.g.:
 ```
 cd C:\Users\<username>\Downloads\pyproj
@@ -28,10 +29,10 @@ or
 pyproj -n <project_name>
 ```
 
-This creates a new folder named <project_name> with the following folder structure:
+This creates a new folder named `<project_name>` with the following folder structure:
 ```
-<project_name>/
-├─ .gitignore
-├─ <project_name>.py
-├─ README.md
+<project_name>
+├── .gitignore
+├── <project_name>.py
+└── README.md
 ```

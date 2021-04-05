@@ -5,7 +5,7 @@ Basic setup of a simple Python project
 Requires Python 3.6+ and [`Click`](https://click.palletsprojects.com/en/7.x/)
 
 ## Installation
-The easiest way to use `pyrpoj` is to install it into a Python environment. 
+The easiest way to use `pyrpoj` is to install it into a Python environment.
 1. Open a Python environment.
 2. Download both **pyproj.py** and **setup.py** to a folder, e.g. `C:\Users\<username>\Downloads\pyproj` if you're on Windows.
 3. Open the folder in a terminal, e.g.:

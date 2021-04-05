@@ -16,10 +16,10 @@ cd C:\Users\<username>\Downloads\pyproj
 ```
 pip install -e .
 ```
-  * **Don't forget the dot after `-e`**. 
+  * **Don't forget the dot after `-e`**.
 
 ## Usage
-Now, from anywhere on your computer, you can simply call 
+Now, from anywhere on your computer, you can simply call
 ```
 pyproj --name <project_name>
 ```

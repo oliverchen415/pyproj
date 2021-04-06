@@ -1,6 +1,9 @@
 # pyproj
 Basic setup of a simple Python project
 
+## ALTERNATIVE
+I kinda realize that this version's a bit of a pain to use, so I've now built it in Go. [Check it out here!](https://github.com/oliverchen415/go_pyproj)
+
 ## Requirements
 Requires Python 3.6+ and [`Click`](https://click.palletsprojects.com/en/7.x/)
 

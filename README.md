@@ -1,8 +1,13 @@
 # pyproj
 Basic setup of a simple Python project
 
-## ALTERNATIVE
-I kinda realize that this version's a bit of a pain to use, so I've now built it in Go. [Check it out here!](https://github.com/oliverchen415/go_pyproj)
+## ARCHIVED
+I'm not working on this anymore, so choose either one of the alternatives below!
+
+## ALTERNATIVES
+I kinda realize that this version's a bit of a pain to use, so I've now built it in Go. [Check it out here!](../../../go_pyproj)
+
+If you were looking for a GUI version, there's one now! [Check it out here!](../../../projmake_qt)
 
 ## Requirements
 Requires Python 3.6+ and [`Click`](https://click.palletsprojects.com/en/7.x/)
